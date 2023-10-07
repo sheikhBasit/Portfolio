@@ -1,3 +1,5 @@
+@media only screen and (max-width: 376px) {
+
 .contact-div {
   position: relative;
   top: 70px;
@@ -122,3 +124,4 @@
   background: var(--mono-black, #0d151e);
 }
 
+}
